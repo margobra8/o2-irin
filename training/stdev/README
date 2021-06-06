@@ -1,0 +1,7 @@
+In this folder you must put copies of the irsim simulator with the necessary files and config and name them like this:
+
+irsim-ANN1
+irsim-ANN2
+irsim-ANN3
+irsim-CTRNNosc
+irsim-CTRNNosc-obs
